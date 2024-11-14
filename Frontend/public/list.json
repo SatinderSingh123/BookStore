@@ -1,0 +1,98 @@
+[
+    {
+        "id":1,
+        "name":"Story Book",
+        "title":"Title of the book",
+        "price":0,
+        "category":"Free",
+        "image":"https://t4.ftcdn.net/jpg/00/05/86/25/360_F_5862533_wQ6IJRVm6vLtub3aqirHc0AsUK3EfloS.jpg"
+    },
+    {
+        "id":2,
+        "name":"Comedy Book",
+        "title":"Title of the book",
+        "price":20,
+        "category":"Entertainment",
+        "image":"https://t4.ftcdn.net/jpg/00/05/86/25/360_F_5862533_wQ6IJRVm6vLtub3aqirHc0AsUK3EfloS.jpg"
+    },
+    {
+        "id":3,
+        "name":"Sports Book",
+        "title":"Title of the book",
+        "price":100,
+        "category":"Free",
+        "image":"https://t4.ftcdn.net/jpg/00/05/86/25/360_F_5862533_wQ6IJRVm6vLtub3aqirHc0AsUK3EfloS.jpg"
+    },
+    {
+        "id":4,
+        "name":"Story Book",
+        "title":"Title of the book",
+        "price":0,
+        "category":"Free",
+        "image":"https://t4.ftcdn.net/jpg/00/05/86/25/360_F_5862533_wQ6IJRVm6vLtub3aqirHc0AsUK3EfloS.jpg"
+    },
+    {
+        "id":5,
+        "name":"Story Book",
+        "title":"Title of the book",
+        "price":0,
+        "category":"Free",
+        "image":"https://t4.ftcdn.net/jpg/00/05/86/25/360_F_5862533_wQ6IJRVm6vLtub3aqirHc0AsUK3EfloS.jpg"
+    },
+    {
+        "id":6,
+        "name":"Story Book",
+        "title":"Title of the book",
+        "price":0,
+        "category":"Free",
+        "image":"https://t4.ftcdn.net/jpg/00/05/86/25/360_F_5862533_wQ6IJRVm6vLtub3aqirHc0AsUK3EfloS.jpg"
+    },
+    {
+        "id":7,
+        "name":"Story Book",
+        "title":"Title of the book",
+        "price":0,
+        "category":"Free",
+        "image":"https://t4.ftcdn.net/jpg/00/05/86/25/360_F_5862533_wQ6IJRVm6vLtub3aqirHc0AsUK3EfloS.jpg"
+    },
+    {
+        "id":8,
+        "name":"Story Book",
+        "title":"Title of the book",
+        "price":0,
+        "category":"Free",
+        "image":"https://t4.ftcdn.net/jpg/00/05/86/25/360_F_5862533_wQ6IJRVm6vLtub3aqirHc0AsUK3EfloS.jpg"
+    },
+    {
+        "id":9,
+        "name":"Story Book",
+        "title":"Title of the book",
+        "price":0,
+        "category":"Free",
+        "image":"https://t4.ftcdn.net/jpg/00/05/86/25/360_F_5862533_wQ6IJRVm6vLtub3aqirHc0AsUK3EfloS.jpg"
+    },
+    {
+        "id":10,
+        "name":"Story Book",
+        "title":"Title of the book",
+        "price":0,
+        "category":"Free",
+        "image":"https://t4.ftcdn.net/jpg/00/05/86/25/360_F_5862533_wQ6IJRVm6vLtub3aqirHc0AsUK3EfloS.jpg"
+    },
+    {
+        "id":11,
+        "name":"Story Book",
+        "title":"Title of the book",
+        "price":0,
+        "category":"Free",
+        "image":"https://t4.ftcdn.net/jpg/00/05/86/25/360_F_5862533_wQ6IJRVm6vLtub3aqirHc0AsUK3EfloS.jpg"
+    },
+    {
+        "id":12,
+        "name":"Story Book",
+        "title":"Title of the book",
+        "price":0,
+        "category":"Free",
+        "image":"https://t4.ftcdn.net/jpg/00/05/86/25/360_F_5862533_wQ6IJRVm6vLtub3aqirHc0AsUK3EfloS.jpg"
+    }
+]
